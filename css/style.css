@@ -1,0 +1,49 @@
+body{
+    font: 20px Arial, sans-serif;
+    color: white;
+}
+
+.navbar{
+    background-color: #363636;
+}
+
+.teste{
+    color: white;
+}
+
+li
+{
+     float: left;
+     margin: 20px; 
+     /**tag para espaçamento entre as opções Quem Sou**/
+}
+
+.quemsou{
+    background-color: #008B8B;
+    color: white;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.contato{
+    background-color: #72ad72;
+    color: white;
+}
+
+.competencia{
+    background-color: #2F4F4F;
+    color: white;
+}
+
+.quem{
+    color: azure;
+    text-decoration-color: azure;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
